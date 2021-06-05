@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peterbrundo, this is my public github!
 - 👀 I’m interested in printed circuit board design, hardware, and programing!
 - 🌱 I’m currently learning FPGA design, SENT protocol, and github (still a process!)
-- 💞️ I’m looking to collaborate on electrical hardware design and programing
+- 💞️ I’m looking to collaborate on electrical hardware design
 - 📫 How to reach me: peter.brundage@wayne.edu
 
 <!---
